@@ -1,0 +1,2 @@
+FROM jenkins
+MAINTAINER jccf091
